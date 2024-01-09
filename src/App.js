@@ -96,7 +96,7 @@ function App() {
       </Paper>
 
      
-      <Paper elevation={3} style={{ padding: '20px',backgroundColor:'burlywood' }}>
+      <Paper elevation={3} style={{ padding: '20px' }}>
         <Typography variant="h5" gutterBottom>Current Users</Typography>
         <TableContainer>
           <Table>
